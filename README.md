@@ -1,9 +1,34 @@
+<div align="center">
+
 # 👋 Hi, I'm Kalaiarasan E
 
-**Frontend developer in training @ TAP Academy, Bangalore** — building with HTML, CSS & AI tools.
+### Frontend Developer in Training @ TAP Academy, Bangalore
 
-🔗 **Live Portfolio:** [https://kalaiarasane.github.io/Kalaiarasan-E---portfolio/](https://kalaiarasane.github.io/Kalaiarasan-E---portfolio/)
+Building modern, responsive web applications with **HTML, CSS, JavaScript, React, and AI-powered development tools**.
 
+</div>
+
+---
+## 🌐 Live Demo
+
+🔗 **Live Portfolio:** https://kalaiarasan-e-portfolio.vercel.app/
+
+---
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+
+<img src="https://github.com/user-attachments/assets/82811bb3-bd50-4ace-a478-95cc476c4282" alt="Desktop Screenshot" width="100%">
+
+---
+
+### 📱 Mobile View
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/547783c6-2d66-472f-ad2a-5e894ef19088" alt="Mobile Screenshot" width="35%">
+</p>
+
+---
 ## 🧭 What's inside
 - **Hero section** — who I am in one line
 - **About section** — my story & photo
@@ -25,11 +50,29 @@
 | 9 | Spotify Clone | [Live Demo](https://spotifysclones1.netlify.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Spotify-Clone) |
 | 10 | Netflix Clone | [Live Demo](https://neftlix-clone-puce.vercel.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Neftlix---clone) |
 
-## 🛠 Tech Stack
-HTML5 · CSS3 · AI-assisted features (built with Google Antigravity & Gemini 3.5 Flash) · Deployed on GitHub Pages
+## 🛠️ Tech Stack
 
-## 🤖 How I used AI
-I designed and wrote the core HTML layout structure, responsive grids, and visual component tokens myself. I used Google Antigravity (Gemini 3.5 Flash) to write the magnetic cursor animations, particle canvas effects, card spotlighters, and dynamic filter transition rules.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive Design
+- Git & GitHub
+- Google Antigravity (Gemini 3.5 Flash)
+- GitHub Pages
+
+---
+
+## 🤖 AI Tools Used
+
+I developed the core HTML structure, responsive layouts, and UI components myself. AI was used to assist with:
+
+- Generating UI layout ideas
+- Creating magnetic cursor animations
+- Building particle canvas effects
+- Improving CSS animations and transitions
+- Implementing dynamic filter interactions
+- Debugging JavaScript
+- Optimizing code structure
 
 ## 📚 What I learned
 - Mastery over modern CSS layouts using flexbox, grid, and glassmorphic translucent layers.
@@ -61,4 +104,3 @@ Yes — a dedicated placement team runs daily drives, and the placement track is
 🔗 [Website](https://thetapacademy.com) · [Placements](https://thetapacademy.com/placements) · [LinkedIn](https://in.linkedin.com/company/thetapacademy) · [YouTube](https://www.youtube.com/tapacademy)
 
 ---
-*⭐ If you liked this project, star the repo — it helps more students discover it.*
