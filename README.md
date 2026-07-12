@@ -39,7 +39,7 @@ Building modern, responsive web applications with **HTML, CSS, JavaScript, React
 ## 🗂 My 10 Projects
 | # | Project | Live | Code |
 |---|---------|------|------|
-| 1 | Portfolio | [Live Demo](https://kalaiarasane.github.io/Kalaiarasan-E-portfolio/) | [GitHub Repo](https://github.com/KalaiarasanE/Kalaiarasan-E-portfolio) |
+| 1 | Portfolio | [Live Demo](https://kalaiarasan-e-portfolio.vercel.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Kalaiarasan-E-portfolio) |
 | 2 | E-commerce Website | [Live Demo](https://ecommerceprof.netlify.app/) | [GitHub Repo](https://github.com/KalaiarasanE/E-commerce-website) |
 | 3 | Food Delivery App | [Live Demo](https://food-delivery-app-one-lemon.vercel.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Food-Delivery-App) |
 | 4 | Product Landing Page | [Live Demo](https://keyboardproduct.netlify.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Product-Landing-Page) |
