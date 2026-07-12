@@ -50,11 +50,29 @@ Building modern, responsive web applications with **HTML, CSS, JavaScript, React
 | 9 | Spotify Clone | [Live Demo](https://spotifysclones1.netlify.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Spotify-Clone) |
 | 10 | Netflix Clone | [Live Demo](https://neftlix-clone-puce.vercel.app/) | [GitHub Repo](https://github.com/KalaiarasanE/Neftlix---clone) |
 
-## 🛠 Tech Stack
-HTML5 · CSS3 · AI-assisted features (built with Google Antigravity & Gemini 3.5 Flash) · Deployed on GitHub Pages
+## 🛠️ Tech Stack
 
-## 🤖 How I used AI
-I designed and wrote the core HTML layout structure, responsive grids, and visual component tokens myself. I used Google Antigravity (Gemini 3.5 Flash) to write the magnetic cursor animations, particle canvas effects, card spotlighters, and dynamic filter transition rules.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive Design
+- Git & GitHub
+- Google Antigravity (Gemini 3.5 Flash)
+- GitHub Pages
+
+---
+
+## 🤖 AI Tools Used
+
+I developed the core HTML structure, responsive layouts, and UI components myself. AI was used to assist with:
+
+- Generating UI layout ideas
+- Creating magnetic cursor animations
+- Building particle canvas effects
+- Improving CSS animations and transitions
+- Implementing dynamic filter interactions
+- Debugging JavaScript
+- Optimizing code structure
 
 ## 📚 What I learned
 - Mastery over modern CSS layouts using flexbox, grid, and glassmorphic translucent layers.
