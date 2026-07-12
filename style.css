@@ -773,13 +773,15 @@ nav a.active::after, nav a:hover::after {
 }
 
 .about-content-wrapper {
-  display: grid;
-  grid-template-columns: 1.5fr 1fr;
-  gap: 40px;
-  align-items: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .about-text-column {
+  width: 100%;
+  max-width: 900px;
   display: flex;
 }
 
@@ -792,9 +794,10 @@ nav a.active::after, nav a:hover::after {
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
   width: 100%;
+  text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  align-items: center;
 }
 
 .about-text-card h3 {
@@ -814,12 +817,15 @@ nav a.active::after, nav a:hover::after {
   line-height: 1.8;
   font-size: 1.05rem;
   margin-bottom: 25px;
+  max-width: 800px;
 }
 
 .about-quick-info {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 15px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  width: 100%;
   margin-bottom: 30px;
   border-top: 1px solid rgba(255, 255, 255, 0.05);
   padding-top: 25px;
@@ -828,7 +834,7 @@ nav a.active::after, nav a:hover::after {
 .quick-info-item {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   font-size: 0.95rem;
   color: var(--text-secondary);
 }
@@ -836,13 +842,12 @@ nav a.active::after, nav a:hover::after {
 .quick-info-item i {
   color: var(--neon-accent);
   font-size: 1.1rem;
-  width: 20px;
-  text-align: center;
 }
 
 .about-actions {
   display: flex;
-  gap: 15px;
+  justify-content: center;
+  width: 100%;
 }
 
 .resume-btn {
@@ -852,63 +857,6 @@ nav a.active::after, nav a:hover::after {
   padding: 12px 28px;
   font-weight: 600;
   font-size: 1rem;
-}
-
-.about-resume-column {
-  display: flex;
-}
-
-.resume-card {
-  background: var(--glass-bg);
-  border: 1px solid var(--glass-border);
-  border-radius: 25px;
-  padding: 35px;
-  box-shadow: 0 15px 35px var(--glass-shadow);
-  backdrop-filter: blur(15px);
-  -webkit-backdrop-filter: blur(15px);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  width: 100%;
-  transition: border-color 0.4s var(--ease-premium), box-shadow 0.4s var(--ease-premium);
-}
-
-.resume-card:hover {
-  border-color: var(--neon-accent);
-  box-shadow: 0 0 25px var(--neon-glow);
-}
-
-.resume-card-icon {
-  font-size: 3rem;
-  color: var(--neon-accent);
-  margin-bottom: 20px;
-  animation: pulse-glow 2s infinite ease-in-out;
-}
-
-.resume-card h3 {
-  font-size: 1.5rem;
-  margin-bottom: 12px;
-}
-
-.resume-card p {
-  color: var(--text-secondary);
-  font-size: 0.95rem;
-  line-height: 1.6;
-  margin-bottom: 30px;
-  max-width: 280px;
-}
-
-.resume-card-btn {
-  width: 100%;
-  max-width: 220px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 12px 20px;
-  font-weight: 600;
 }
 
 @keyframes pulse-glow {
